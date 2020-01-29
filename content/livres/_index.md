@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Les livres de Lydéric
 
 # View.
 #   1 = List
