@@ -46,3 +46,7 @@ user_groups:
 ---
 
 J'ai été journaliste financier à Paris, conseiller en vins à Berlin, banquier à Francfort, informaticien systèmes à Londres... Je suis maintenant écrivain et éditeur.
+
+Ma maison d'édition s'appelle [_Liber Invictus_](https://liberinvictus.com).
+
+Mon [blog](https://lyderic.com/blog) parle d'informatique, du jeux d'échecs, de littérature, d'histoire...
