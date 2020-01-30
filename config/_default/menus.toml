@@ -11,14 +11,27 @@
 [[main]]
   name = "Blog"
   url = "https://lydericblog.wordpress.com/"
-  weight = 10
+  weight = 100
 
 [[main]]
   name = "Livres"
+	identifier = "menu-livres"
   url = "livres"
-  weight = 20
+  weight = 200
+
+[[main]]
+  name = "L'essuie-main de l'empereur"
+	parent = "menu-livres"
+	url = "https://liberinvictus.com/modus/"
+	weight = 205
+
+[[main]]
+  name = "Le cartable d'Ollie"
+	parent = "menu-livres"
+	url = "https://liberinvictus.com/le-cartable-dollie/"
+	weight = 210
 
 [[main]]
   name = "Contact"
-  url = "#contact"
-  weight = 30
+  url = "contact"
+  weight = 300
