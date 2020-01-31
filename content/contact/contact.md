@@ -1,26 +1,20 @@
 +++
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Contact widget.
+widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Écrivez-moi"
 
-[design]
-  columns = "1"
+# Automatically link email and phone?
+autolink = true
 
-[design.background]
-  text_color_light = false
-
-[design.spacing]
-  padding = ["20px", "0", "20px", "0"]
-
-[advanced]
- css_style = ""
- css_class = ""
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 1
 +++
 
-{{% alert warning %}}
-Cette page est en construction
-{{% /alert %}}
