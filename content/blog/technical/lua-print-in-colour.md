@@ -4,7 +4,7 @@ summary: " "
 date: 2017-02-22 15:31:07 +0000 UTC
 draft: false
 ---
-<img class="alignnone" src="http://wxlua.sourceforge.net/images/wxlualogo.png" width="86" height="86" />
+<img class="alignnone" src="https://wxlua.sourceforge.net/images/wxlualogo.png" width="86" height="86" />
 
 This a short memo on how to print in colour in lua.
 <h4>Codes:</h4>

@@ -6,7 +6,7 @@ draft: false
 ---
 Un court essai mémorable d'Isaac Asimov, paru dans <em>Newsweek</em> le 21 janvier 1980. Je me propose de le traduire en français quand j'aurai un peu de temps.
 <h3>Original (PDF)</h3>
-<a href="http://www.lyderic.com/wp-content/uploads/2016/10/ASIMOV_1980_Cult_of_Ignorance.pdf">asimov_1980_cult_of_ignorance</a>
+<a href="https://www.lyderic.com/wp-content/uploads/2016/10/ASIMOV_1980_Cult_of_Ignorance.pdf">asimov_1980_cult_of_ignorance</a>
 <h3>English</h3>
 It's hard to quarrel with that ancient justification of the free press: "America's right to know." It seems almost cruel to ask, ingeniously, "America's right to know what, please? Science? Mathematics? Economics? Foreign languages?"
 

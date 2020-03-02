@@ -4,7 +4,7 @@ summary: " "
 date: 2016-04-14 16:22:02 +0000 UTC
 draft: false
 ---
-I am currently reading the best book about the C language since the K&amp;R. It's called <em>21st Century C</em>, was written by Ben Klemens and published by <a href="http://shop.oreilly.com/product/0636920033677.do" target="_blank">O'Reilly</a>.
+I am currently reading the best book about the C language since the K&amp;R. It's called <em>21st Century C</em>, was written by Ben Klemens and published by <a href="https://shop.oreilly.com/product/0636920033677.do" target="_blank">O'Reilly</a>.
 
 There is one gem per page in this book. From big-picture tips to nice little hacks. My favority so far can be found on page 29. It explains how one can embed a small C proram into a shell script.
 

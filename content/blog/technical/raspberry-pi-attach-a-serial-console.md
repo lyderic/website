@@ -17,7 +17,7 @@ draft: false
 <h4>Sources:</h4>
 <ul>
  	<li><a href="https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable?view=all" target="_blank" rel="noopener noreferrer">https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable</a></li>
- 	<li><a href="http://elinux.org/RPi_Serial_Connection" target="_blank" rel="noopener noreferrer">http://elinux.org/RPi_Serial_Connection</a></li>
+ 	<li><a href="https://elinux.org/RPi_Serial_Connection" target="_blank" rel="noopener noreferrer">https://elinux.org/RPi_Serial_Connection</a></li>
 </ul>
 <h1>For Raspberry Pi without pins (Pi Zero, Pi Zero W):</h1>
 <ol>
@@ -43,5 +43,5 @@ sudo screen /dev/ttyACM0 115200</li>
 <strong>Sources:</strong>
 <ul>
  	<li><a href="https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/serial-gadget" target="_blank" rel="noopener">https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/serial-gadget</a></li>
- 	<li><a href="http://0pointer.de/blog/projects/serial-console.html" target="_blank" rel="noopener">http://0pointer.de/blog/projects/serial-console.html</a></li>
+ 	<li><a href="https://0pointer.de/blog/projects/serial-console.html" target="_blank" rel="noopener">https://0pointer.de/blog/projects/serial-console.html</a></li>
 </ul>

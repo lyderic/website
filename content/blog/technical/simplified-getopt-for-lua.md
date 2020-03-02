@@ -4,7 +4,7 @@ summary: " "
 date: 2016-11-17 18:34:42 +0000 UTC
 draft: false
 ---
-<a href="https://www.lua.org/" target="_blank"><img class="alignleft" src="https://www.lua.org/images/lua.gif" alt="" width="91" height="91" /></a>Lua doesn't include getopt. I have written this very simple implementation. It is actually a simplified version of <a href="http://lua-users.org/wiki/AlternativeGetOpt" target="_blank">AlternativeGetOpt</a>. It is usable but <em>absolutely not user-proof</em>! Good enough for your own scripts though.
+<a href="https://www.lua.org/" target="_blank"><img class="alignleft" src="https://www.lua.org/images/lua.gif" alt="" width="91" height="91" /></a>Lua doesn't include getopt. I have written this very simple implementation. It is actually a simplified version of <a href="https://lua-users.org/wiki/AlternativeGetOpt" target="_blank">AlternativeGetOpt</a>. It is usable but <em>absolutely not user-proof</em>! Good enough for your own scripts though.
 <pre>function getopt(o)
   local p = {}
   for k,v in ipairs(arg) do
