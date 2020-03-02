@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "La mort de Jules Cesar"
+title: "La mort de Jules César"
 subtitle: ""
-summary: ""
+summary: "Idées reçues sur la mort de Jules César"
 authors: []
 tags: []
 categories: []
