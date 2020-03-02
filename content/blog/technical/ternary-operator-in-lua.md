@@ -1,5 +1,6 @@
 ---
 title: "Ternary operator in lua"
+summary: " "
 date: 2016-11-10 12:23:50 +0000 UTC
 draft: false
 ---

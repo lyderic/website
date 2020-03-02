@@ -1,5 +1,6 @@
 ---
 title: "Tabular display in Linux terminal"
+summary: " "
 date: 2016-03-15 16:46:36 +0000 UTC
 draft: false
 ---

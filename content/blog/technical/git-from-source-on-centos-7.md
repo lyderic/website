@@ -1,5 +1,6 @@
 ---
 title: "git from source on Centos 7"
+summary: " "
 date: 2016-11-12 13:21:48 +0000 UTC
 draft: false
 ---

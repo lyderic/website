@@ -1,5 +1,6 @@
 ---
 title: "Building minio's mc and restic on termux"
+summary: " "
 date: 2017-09-07 13:50:11 +0000 UTC
 draft: false
 ---

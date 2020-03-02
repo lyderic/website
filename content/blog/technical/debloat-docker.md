@@ -1,5 +1,6 @@
 ---
 title: "Debloat docker"
+summary: " "
 date: 2016-02-11 16:48:44 +0000 UTC
 draft: false
 ---

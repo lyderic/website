@@ -1,5 +1,6 @@
 ---
 title: "Serge Brussolo : immersion totale"
+summary: " "
 date: 2016-03-18 16:31:19 +0000 UTC
 draft: false
 ---

@@ -1,5 +1,7 @@
 ---
 title: "Git encryption that works"
+summary: " "
+summary: " "
 date: 2018-06-05 11:09:47 +0000 UTC
 draft: false
 ---

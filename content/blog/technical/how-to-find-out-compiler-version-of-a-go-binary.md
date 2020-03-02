@@ -1,5 +1,6 @@
 ---
 title: "How to find out compiler version of a go binary"
+summary: " "
 date: 2017-09-04 12:45:45 +0000 UTC
 draft: false
 ---

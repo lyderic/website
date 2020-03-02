@@ -1,5 +1,6 @@
 ---
 title: "Informaticien littérateur"
+summary: " "
 date: 2016-02-15 16:34:32 +0000 UTC
 draft: false
 ---

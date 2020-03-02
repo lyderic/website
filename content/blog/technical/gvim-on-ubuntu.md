@@ -1,5 +1,6 @@
 ---
 title: "gvim on Ubuntu"
+summary: " "
 date: 2016-11-12 18:39:25 +0000 UTC
 draft: false
 ---

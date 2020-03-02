@@ -1,5 +1,6 @@
 ---
 title: "Straightforward java compilation on termux"
+summary: " "
 date: 2017-09-04 13:07:21 +0000 UTC
 draft: false
 ---

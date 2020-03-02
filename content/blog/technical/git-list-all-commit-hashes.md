@@ -1,5 +1,6 @@
 ---
 title: "git: list all commit hashes"
+summary: " "
 date: 2017-06-02 06:46:33 +0000 UTC
 draft: false
 ---

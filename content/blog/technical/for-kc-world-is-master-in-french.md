@@ -1,5 +1,6 @@
 ---
 title: "For K&C, world is master in French"
+summary: " "
 date: 2016-05-13 16:20:46 +0000 UTC
 draft: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "How to build Xerial's sqlite JDBC driver on Alpine Linux"
+summary: " "
 date: 2017-03-31 15:48:50 +0000 UTC
 draft: false
 ---

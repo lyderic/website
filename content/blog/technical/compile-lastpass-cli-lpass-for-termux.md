@@ -1,5 +1,6 @@
 ---
 title: "Compile lastpass-cli (lpass) for termux"
+summary: " "
 date: 2017-09-23 16:29:51 +0000 UTC
 draft: false
 ---

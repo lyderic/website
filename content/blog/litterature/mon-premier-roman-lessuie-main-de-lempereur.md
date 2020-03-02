@@ -1,6 +1,6 @@
 ---
 title: "Mon premier roman : « L'essuie-main de l'empereur »"
-summary: "Détails et commande de mon premier roman"
+summary: " "
 date: 2019-05-29 10:13:53 +0000 UTC
 draft: false
 ---

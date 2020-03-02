@@ -1,5 +1,6 @@
 ---
 title: "lsyncd and lua, the perfect match"
+summary: " "
 date: <nil>
 draft: false
 ---

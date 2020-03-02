@@ -1,5 +1,6 @@
 ---
 title: "Poor Man's Service Starter"
+summary: " "
 date: 2016-03-07 16:45:34 +0000 UTC
 draft: false
 ---

@@ -1,22 +1,8 @@
 ---
 title: "Évolution"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
+summary: " "
 date: 2016-09-28T16:28:16Z
-lastmod: 2016-09-28T16:28:16Z
-featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 ---
 Au début, les hommes ont dit que tout était dieu.
 Ensuite, les hommes ont dit que tout n'était pas dieu, mais qu'il y avait des dieux.

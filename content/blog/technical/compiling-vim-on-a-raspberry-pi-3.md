@@ -1,5 +1,6 @@
 ---
 title: "Compiling vim on a Raspberry Pi 3"
+summary: " "
 date: 2016-03-02 16:46:07 +0000 UTC
 draft: false
 ---

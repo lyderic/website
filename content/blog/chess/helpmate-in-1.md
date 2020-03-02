@@ -1,5 +1,6 @@
 ---
 title: "Helpmate in 1"
+summary: " "
 date: 2017-05-17 17:08:16 +0000 UTC
 draft: false
 ---

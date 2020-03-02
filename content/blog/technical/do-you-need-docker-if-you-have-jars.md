@@ -1,5 +1,6 @@
 ---
 title: "Do you need Docker if you have JARs?"
+summary: " "
 date: 2016-02-12 16:47:34 +0000 UTC
 draft: false
 ---

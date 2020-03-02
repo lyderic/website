@@ -3,7 +3,7 @@
 
 title: "La mort de Jules César"
 subtitle: ""
-summary: "Idées reçues sur la mort de Jules César"
+summary: " "
 authors: []
 tags: []
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: "Chess"
+summary: " "
 date: 2016-10-15 16:25:58 +0000 UTC
 draft: false
 ---

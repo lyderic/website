@@ -1,5 +1,6 @@
 ---
 title: "C in sh"
+summary: " "
 date: 2016-04-14 16:22:02 +0000 UTC
 draft: false
 ---

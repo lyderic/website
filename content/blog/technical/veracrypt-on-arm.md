@@ -1,5 +1,7 @@
 ---
 title: "Veracrypt on ARM"
+summary: " "
+summary: " "
 date: 2017-11-02 14:52:27 +0000 UTC
 draft: false
 ---

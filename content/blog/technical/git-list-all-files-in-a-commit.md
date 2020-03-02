@@ -1,5 +1,6 @@
 ---
 title: "git: list all files in a commit"
+summary: " "
 date: 2017-06-02 06:40:07 +0000 UTC
 draft: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "git: filter out a file from a branch"
+summary: " "
 date: 2017-06-02 06:32:54 +0000 UTC
 draft: false
 ---

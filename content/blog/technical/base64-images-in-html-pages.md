@@ -1,5 +1,6 @@
 ---
 title: "base64 images in HTML pages"
+summary: " "
 date: 2016-02-12 16:47:03 +0000 UTC
 draft: false
 ---

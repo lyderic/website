@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Blog"
-  url = "https://lydericblog.wordpress.com/"
+  url = "blog"
   weight = 100
 
 [[main]]

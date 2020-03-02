@@ -1,5 +1,6 @@
 ---
 title: "Raspberry Pi: attach a serial console"
+summary: " "
 date: 2017-06-02 20:09:02 +0000 UTC
 draft: false
 ---

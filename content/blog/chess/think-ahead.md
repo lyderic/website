@@ -1,5 +1,6 @@
 ---
 title: "Think ahead"
+summary: " "
 date: 2017-05-14 16:13:53 +0000 UTC
 draft: false
 ---

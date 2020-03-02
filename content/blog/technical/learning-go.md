@@ -1,5 +1,6 @@
 ---
 title: "Learning go"
+summary: " "
 date: 2017-04-27 09:07:08 +0000 UTC
 draft: false
 ---
