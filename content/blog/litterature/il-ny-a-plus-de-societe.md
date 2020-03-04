@@ -2,7 +2,6 @@
 title: "Il n'y a plus de société"
 summary: " "
 date: 2017-01-19 08:44:48 +0000 UTC
-lastmod: 2017-01-19 08:44:48 +0000 UTC
 draft: false
 ---
 Il n'est pas possible d'avoir un projet de société tout simplement parce qu'il n'y a <em>plus</em> de société&nbsp;!
