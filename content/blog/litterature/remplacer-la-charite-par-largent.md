@@ -10,7 +10,7 @@ Ce chapitre se conclut par ces mots :
 
 « <em>Cela lui faisait penser, plus que jamais auparavant, au mystérieux pouvoir de l'argent. En fait, cela lui rappelait ce que disait M. Warburton : si l'on prenait la Première Épître aux Corinthiens, chapitre 13, et que l'on remplaçait "charité" par "argent" dans chaque verset, ce chapitre prenait dix fois plus de sens qu'avant.</em> »
 
-Je me suis amusé à faire ce que notre cher Orwell suggère ci-dessus et j'ai revu le texte de Saint Paul pour en faire ceci :
+Je me suis amusé à faire ce que notre cher Orwell suggère ci-dessus et j'ai revu le texte de Saint-Paul pour en faire ceci :
 
 « Quand je parlerais les langues des hommes et des anges, si je n'ai pas d'argent, je suis un airain qui résonne ou une cymbale qui retentit.
 

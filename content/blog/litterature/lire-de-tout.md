@@ -4,7 +4,7 @@ summary: " "
 date: 2016-02-11 16:35:49 +0000 UTC
 draft: false
 ---
-La majeure partie de mon temps libre se passe à lire. J'aime beaucoup de choses : jouer aux échecs, faire du piano, me ballader à vélo, pratiquer le yoga... mais mon activité préférée reste la lecture.
+La majeure partie de mon temps libre se passe à lire. J'aime beaucoup de choses : jouer aux échecs, faire du piano, me balader à vélo, pratiquer le yoga... mais mon activité préférée reste la lecture.
 
 La lecture de quoi ?
 

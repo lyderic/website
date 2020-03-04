@@ -32,7 +32,7 @@ projects: []
 
 1. Les derniers mots de César n’ont pas été « _tu quoque fili mi_ »
 
-   Et pour cause : ces mots furent prononcés en grec (kai su teknon) ! Certes, c’est bien le latin que parlaient les romains. Mais sous le coup de l’émotion, César a utilisé la langue de son enfance. En effet, les aristocrates romains étaient élevés par des précepteurs grecs et le grec était la langue de l’éducation.
+   Et pour cause : ces mots furent prononcés en grec (kai su teknon) ! Certes, c’est bien le latin que parlaient les Romains. Mais sous le coup de l’émotion, César a utilisé la langue de son enfance. En effet, les aristocrates romains étaient élevés par des précepteurs grecs et le grec était la langue de l’éducation.
 
 2. César n’a pas été assassiné par son fils
 
