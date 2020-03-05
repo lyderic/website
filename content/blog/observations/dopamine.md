@@ -11,6 +11,8 @@ featured: false
 draft: false
 ---
 
+![formule chimique de la dopamine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dopamine2.svg/500px-Dopamine2.svg.png)
+
 Il en est beaucoup qui aime à qualifier notre monde de _société du spectacle_, royaume de l'_homo festivus_, où triomphent l'individualisme et le nihilisme. Libre à eux. Notre monde est pour moi le seul monde auquel j'ai accès. Peu importe qu'il ait été mieux avant : essayons qu'il ne soit pas pire demain.
 
 Observation amusante : dans notre monde, notre corps passe un temps fou à produire de la dopamine, l'hormone du bien-être. 
