@@ -1,5 +1,5 @@
 ---
-title: Chess blog (english)
+title: Technical stuff (english)
 
 # View.
 #   1 = List
