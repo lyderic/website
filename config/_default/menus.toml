@@ -10,8 +10,21 @@
 
 [[main]]
   name = "Blog"
+	identifier = "menu-blog"
   url = "blog"
   weight = 100
+
+[[main]]
+	name = "Observations (français)"
+	parent = "menu-blog"
+	url = "blog/observations"
+	weight = 105
+
+[[main]]
+	name = "Technical Stuff (english)"
+	parent = "menu-blog"
+	url = "blog/technical-stuff"
+	weight = 110
 
 [[main]]
   name = "Livres"
