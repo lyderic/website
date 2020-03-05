@@ -1,5 +1,5 @@
 ---
-title: Blog de Lydéric
+title: Blogs de Lydéric
 
 # View.
 #   1 = List

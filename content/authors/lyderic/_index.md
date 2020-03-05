@@ -49,4 +49,6 @@ J'ai été journaliste financier à Paris, conseiller en vins à Berlin, banquie
 
 Je suis le fondateur de la maison d'édition [_Liber Invictus_](https://liberinvictus.com).
 
-Mon [blog](blog) parle d'informatique, du jeu d'échecs, de littérature, d'histoire...
+Je tiens deux [blogs](blog) :
+1. Un [blog en français](blog/observations) où je fais part de mes observation sur notre monde, sur la littérature, l'histoire...
+2. Un [blog d'informatique](blog/technical-stuff) en anglais.
