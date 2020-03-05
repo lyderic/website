@@ -1,5 +1,5 @@
 ---
-title: Blog littéraire (français)
+title: Observations (français)
 
 # View.
 #   1 = List
