@@ -7,3 +7,6 @@ public/
 
 # Vim cache
 *.swp
+
+# Antidote temps
+*__antidote.md
