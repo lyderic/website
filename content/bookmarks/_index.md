@@ -13,12 +13,12 @@ header:
   image: ""
 ---
 
-News :
 [The Guardian](https://theguardian.com) |
-[BBC Weather London](https://www.bbc.co.uk/weather/2643743) |
+[Weather](https://www.bbc.co.uk/weather/2643743) |
 [Reddit](https://reddit.com) |
-[Hacker News](https://news.ycombinator.com) |
-[Wikipedia Français](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
+[HN](https://news.ycombinator.com) |
+[Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal) |
+[TweetDeck](https://tweetdeck.twitter.com/)
 
 Google :
 [gmail](https://gmail.com) |
