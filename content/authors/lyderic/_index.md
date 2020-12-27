@@ -47,7 +47,7 @@ user_groups:
 
 J'ai été journaliste financier à Paris, conseiller en vins à Berlin, banquier à Francfort, informaticien systèmes à Londres... Je suis maintenant écrivain et éditeur.
 
-Je suis le fondateur de la maison d'édition [_Liber Invictus_](https://liberinvictus.com) et de la structure de conseil en informatique [_Cypbermoped_](https://cybermoped.com).
+Je suis le fondateur de la maison d'édition [_Liber Invictus_](https://liberinvictus.com) et de la structure de conseil en informatique [_Cybermoped_](https://cybermoped.com).
 
 Je tiens deux [blogs](blog) :
 1. Un [blog en français](blog/observations) où je fais part de mes observation sur notre monde, sur la littérature, l'histoire...
