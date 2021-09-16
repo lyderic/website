@@ -13,8 +13,8 @@ header:
   image: ""
 ---
 
-[The Guardian](https://theguardian.com) |
-[Weather](https://www.bbc.co.uk/weather/2643743) |
+[RTL LU](https://5minutes.rtl.lu/) |
+[Weather](https://www.meteolux.lu/?lang=fr) |
 [Reddit](https://reddit.com) |
 [HN](https://news.ycombinator.com) |
 [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal) |
