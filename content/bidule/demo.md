@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Ceci est une page de test
-{{% /alert %}}
+{{% /callout %}}
 
 ## Une image :
 
