@@ -17,13 +17,5 @@ header:
 [Weather](https://www.meteolux.lu/?lang=fr) |
 [Reddit](https://reddit.com) |
 [HN](https://news.ycombinator.com) |
-[Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal) |
-[TweetDeck](https://tweetdeck.twitter.com/)
-
-Google :
-[gmail](https://gmail.com) |
-[calendar](https://calendar.google.com/calendar/r) |
-[contacts](https://contacts.google.com/?hl=en&tab=mC) |
-[keep](https://keep.google.com/u/0/) |
-[photos](https://photos.google.com/) |
-[drive](https://drive.google.com/drive/u/0/my-drive)
+[Journal du hacker](https://www.journalduhacker.net/)
+[Scribe](https://scribe.rip)
