@@ -19,7 +19,7 @@ header:
 [HN](https://news.ycombinator.com) |
 [Journal du hacker](https://www.journalduhacker.net/)
 
-Resources
+Resources:
 [Scribe](https://scribe.rip)
 
 
