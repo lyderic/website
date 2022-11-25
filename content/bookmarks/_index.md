@@ -18,4 +18,8 @@ header:
 [Reddit](https://reddit.com) |
 [HN](https://news.ycombinator.com) |
 [Journal du hacker](https://www.journalduhacker.net/)
+
+Resources
 [Scribe](https://scribe.rip)
+
+
