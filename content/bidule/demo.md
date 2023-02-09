@@ -64,3 +64,5 @@ Ceci est une page de test
 
 ## Une video :
 {{< youtube jpGinuse3a8 >}}
+
+## wowchemy/academic: v.5.7 updated on 2023-02-09
