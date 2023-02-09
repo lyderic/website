@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Bidule"
-subtitle = ""
+subtitle = "Pour mes tests et essais divers"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,12 +51,11 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Ceci est une page résumant les différentes versions utilisées pour ce site
+On aime les lorem ipsum, sur cette page ☺
 {{% /callout %}}
 
-# VERSIONS
+Aenean accumsan neque vitae molestie placerat. Proin iaculis justo nec libero facilisis pellentesque. Nunc et volutpat nibh, et malesuada magna. Vestibulum dignissim arcu odio, eget commodo neque ultrices vitae. Nunc vitae nisi eu neque eleifend malesuada in eu nisl. Nunc laoreet ac turpis molestie feugiat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id tempor orci. Duis congue ex neque, vel luctus augue luctus vitae. Donec scelerisque pellentesque vulputate.
 
-* Last update: Thursday 9 February 2023 13:23:17
-* Go: 1.20
-* wowchemy/academic: v.5.7
-* Hugo: 0.110.0
+Mauris condimentum id tellus a cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc in dolor sed urna dictum viverra vitae quis lorem. Morbi non porta neque. Suspendisse vestibulum orci ut nisi ultricies scelerisque. Proin ut purus in nulla feugiat ullamcorper. Proin consectetur felis sed lectus eleifend blandit. Fusce vitae sem id ex ornare euismod. Maecenas congue mollis massa sed auctor.
+
+Aliquam at varius elit. Donec vulputate, turpis a elementum scelerisque, sapien mi vestibulum justo, sit amet viverra odio erat nec urna. Vivamus eget lectus accumsan, finibus nisi a, gravida est. Curabitur et lobortis magna, a porttitor justo. Sed dignissim ut urna sed imperdiet. Integer semper nisi sed neque tincidunt, vitae maximus metus porttitor. Nam commodo enim ex, id venenatis nisl commodo eget. Nam tristique ligula quis consequat pretium. Aenean pretium venenatis vestibulum. Vivamus facilisis scelerisque orci, vel ultrices turpis fermentum et. Mauris nec faucibus massa, nec euismod elit. Proin porta rhoncus elementum. Mauris scelerisque massa vulputate ligula vestibulum, vitae bibendum sapien aliquet. Pellentesque quis bibendum ante. Etiam posuere in nunc cursus auctor. Nam faucibus at nisl in faucibus.
