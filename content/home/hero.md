@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 title = "L'essuie-main de l'empereur"
 
-# Hero image (optional). Enter filename of an image in the `static/media/` folder.
+# Hero image (optional). Enter filename of an image in the `asset/media/` folder.
 hero_media = "modus.png"
 
 [design.background]

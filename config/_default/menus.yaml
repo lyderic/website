@@ -22,12 +22,24 @@ main:
     weight: 200
   - name: L'essuie-main de l'empereur
     parent: menu-livres
-    url: 'https://liberinvictus.com/modus/'
-    weight: 205
+    url: 'https://liberinvictus.com/livres/modus/'
+    weight: 1
+  - name: Polochon et le Lutin
+    parent: menu-livres
+    url: 'https://liberinvictus.com/livres/polochon/'
+    weight: 2
   - name: Le cartable d'Ollie
     parent: menu-livres
-    url: 'https://liberinvictus.com/le-cartable-dollie/'
-    weight: 210
+    url: 'https://liberinvictus.com/livres/ollie-cartable/'
+    weight: 3
+  - name: Le poney d'Ollie
+    parent: menu-livres
+    url: 'https://liberinvictus.com/livres/ollie-poney/'
+    weight: 4
+  - name: Sapientia
+    parent: menu-livres
+    url: 'https://liberinvictus.com/livres/sapientia/'
+    weight: 5
   - name: Contact
     url: contact
     weight: 220
