@@ -51,18 +51,12 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Ceci est une page de test
+Ceci est une page résumant les différentes versions utilisées pour ce site
 {{% /callout %}}
 
-## Une image :
+# VERSIONS
 
-### Regardez cette belle couverture[^1] :smiley:
-
-[^1]: c'est celle de mon premier roman.
-
-![L'essuie-main de l'empereur](https://liberinvictus.com/wp-content/uploads/2019/02/couverture-modus-autruche-garamond-sc-website.png)
-
-## Une video :
-{{< youtube jpGinuse3a8 >}}
-
-## wowchemy/academic: v.5.7 updated on 2023-02-09
+* Last update: Thursday 9 February 2023 13:23:17
+* Go: 1.20
+* wowchemy/academic: v.5.7
+* Hugo: 0.110.0
