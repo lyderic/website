@@ -1,0 +1,37 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Blog
+    identifier: menu-blog
+    url: blog
+    weight: 100
+  - name: Observations (français)
+    parent: menu-blog
+    url: blog/observations
+    weight: 105
+  - name: Technical Stuff (english)
+    parent: menu-blog
+    url: blog/technical-stuff
+    weight: 110
+  - name: Livres
+    identifier: menu-livres
+    url: livres
+    weight: 200
+  - name: L'essuie-main de l'empereur
+    parent: menu-livres
+    url: 'https://liberinvictus.com/modus/'
+    weight: 205
+  - name: Le cartable d'Ollie
+    parent: menu-livres
+    url: 'https://liberinvictus.com/le-cartable-dollie/'
+    weight: 210
+  - name: Contact
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
