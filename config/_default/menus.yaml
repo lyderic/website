@@ -20,26 +20,34 @@ main:
     identifier: menu-livres
     url: livres
     weight: 200
+  - name: Deux princes en Afrique
+    parent: menu-livres
+    url: 'https://liberinvictus.com/livres/zoulous/'
+    weight: 1
   - name: L'essuie-main de l'empereur
     parent: menu-livres
     url: 'https://liberinvictus.com/livres/modus/'
-    weight: 1
+    weight: 2
   - name: Polochon et le Lutin
     parent: menu-livres
     url: 'https://liberinvictus.com/livres/polochon/'
-    weight: 2
+    weight: 3
   - name: Le cartable d'Ollie
     parent: menu-livres
     url: 'https://liberinvictus.com/livres/ollie-cartable/'
-    weight: 3
+    weight: 4
   - name: Le poney d'Ollie
     parent: menu-livres
     url: 'https://liberinvictus.com/livres/ollie-poney/'
-    weight: 4
+    weight: 5
+  - name: Le dauphin d'Ollie
+    parent: menu-livres
+    url: 'https://liberinvictus.com/livres/ollie-dauphin/'
+    weight: 6
   - name: Sapientia
     parent: menu-livres
     url: 'https://liberinvictus.com/livres/sapientia/'
-    weight: 5
+    weight: 7
   - name: Contact
     url: contact
     weight: 220
