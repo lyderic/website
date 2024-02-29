@@ -1,3 +1,9 @@
+# A new lyderic.com site
+
+I find this Academic theme very confusing and I cannot manage it. I want to go back to simpler Hugo, that I understand fully. The git branch 'hugosolis' covers this.
+
+# Below is the previous README.md, that I will eventually remove
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
